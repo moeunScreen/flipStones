@@ -6,8 +6,10 @@ function handleClick(event){
 
     const rect = canvas.getBoundingClientRect();
 
-    const mouseX = event.clientX - rect.left;
-    const mouseY = event.clientY - rect.top;
+    const touch = event.touches ? event.touches[0] : event;
+
+    const mouseX = touch.clientX - rect.left;
+    const mouseY = touch.clientY - rect.top;
     if (gameState === "SETUP"){
 
         if (
