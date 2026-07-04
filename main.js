@@ -1,5 +1,7 @@
 function init(){
     boardInit();
+    playerTile = WHITE;
+    playerTile = BLACK;
     window.addEventListener("resize",resize);
     canvas.addEventListener("click", handleClick);
 
