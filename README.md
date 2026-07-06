@@ -9,3 +9,8 @@ https://moeunscreen.github.io/flipStones/
 가로 / 세로 / 대각선 방향으로 상대 돌이 양쪽에 끼이면 그 돌들은 모두 내 색으로 뒤집힙니다.
 양쪽 모두 더 이상 둘 곳이 없으면 게임이 종료됩니다.
 최종적으로 내 색 돌이 더 많이 남은 플레이어가 승리합니다.
+
+### 게임화면 ###
+<div align="center">
+  <img src="assets/img/screenshot.PNG" alt="Screenshot" width="700">
+</div>
