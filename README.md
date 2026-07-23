@@ -14,3 +14,6 @@ https://moeunscreen.github.io/flipStones/
 <div align="center">
   <img src="assets/img/screenshot.PNG" alt="Screenshot" width="700">
 </div>
+
+## 원본코드 
+Making Games with Python & Pygame에 나와있는 파이썬코드를 가져왔습니다
